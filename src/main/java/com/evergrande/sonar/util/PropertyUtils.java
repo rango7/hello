@@ -16,7 +16,7 @@ public class PropertyUtils {
      */
     static {
         try {
-            p.load(PropertyUtils.class.getClassLoader().getResourceAsStream("common.properties"));
+            p.load(PropertyUtils.class.getClassLoader().getResourceAsStream("commons.properties"));
         } catch (IOException e) {
             e.printStackTrace();
         }
