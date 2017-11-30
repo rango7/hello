@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.java:java-jacoco-previous:4.7.1.9272">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-jacoco-previous/4.7.1.9272/java-jacoco-previous-4.7.1.9272.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-jacoco-previous/4.7.1.9272/java-jacoco-previous-4.7.1.9272-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-jacoco-previous/4.7.1.9272/java-jacoco-previous-4.7.1.9272-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
