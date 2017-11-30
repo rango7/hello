@@ -20,6 +20,7 @@
 		<gson.version>2.6.2</gson.version>
 	</properties>
 
+
 	<dependencies>
 		<dependency>
 			<groupId>org.sonarsource.sonarqube</groupId>
@@ -123,7 +124,9 @@
 	</dependencies>
 
 	<build>
+
 		<plugins>
+
 			<plugin>
 				<groupId>org.sonarsource.sonar-packaging-maven-plugin</groupId>
 				<artifactId>sonar-packaging-maven-plugin</artifactId>
@@ -144,6 +147,8 @@
 				<version>3.6.0</version>
 				<configuration>
 					<source>1.8</source>
+					<encoding>UTF-8</encoding>
+
 					<target>1.8</target>
 				</configuration>
 			</plugin>
